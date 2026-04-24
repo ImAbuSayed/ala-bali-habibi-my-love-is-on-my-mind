@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> على بالي حبيبي في كل ليلة
+> نار الشوق بقلبي ما لها حيلة
+> عيونك تسحرني وتأخذني لبعيد
+> وأنا عاشق لكِ وهذا الأكيد
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
