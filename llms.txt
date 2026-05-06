@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ala-bali-habibi-my-love-is-on-my-mind/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for Ala Bali Habibi – My Love is on My Mind](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
